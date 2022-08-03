@@ -13,8 +13,8 @@ function App() {
   const [sideBarOpen, setSideBarOpen] = useState(false);
   const [config, setConfig] = useState({
     supply: 5,
-    name: "HashLips NFT",
-    symbol: "HNFT",
+    name: "Netvariant NFT",
+    symbol: "NetNFT",
     description: "This is a collection about...",
     width: 1024,
     height: 1024,
